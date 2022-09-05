@@ -14,3 +14,15 @@ The use of.gitignore files is to save files that you had previously committed to
 
 # Storage and Credentials
 Github is a public platform and the storage of important information and credentials is not a great idea. Source code repositories were meant to be shared with people/the world. Sometimes people may have to share this source code as they might have to work with groups of people at work or in a team. With the easy access to your source code, anyone having access to your secrets or credentials would be catastrophic. 
+
+
+# Charts
+
+https://github.com/users/ThomsonMoco/projects/2/insights/1
+![label](https://user-images.githubusercontent.com/110563213/188385305-ec67a642-7651-4aab-ac79-a52415bb5d55.png)
+
+https://github.com/users/ThomsonMoco/projects/2/insights/2
+![sprint](https://user-images.githubusercontent.com/110563213/188385363-5228039f-c1a8-44fc-8d2e-7424ec3f0bdd.png)
+
+https://github.com/users/ThomsonMoco/projects/2/insights/3
+![status](https://user-images.githubusercontent.com/110563213/188385400-a61e48a6-51f6-4729-8473-a2dbee91954d.png)
